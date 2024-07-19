@@ -1,0 +1,8 @@
+{
+  "root": true,
+  "extends": "next",
+  "rules": {
+    "no-unused-vars": "off",
+    "react/display-name": 0
+  }
+}
