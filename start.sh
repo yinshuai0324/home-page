@@ -3,5 +3,7 @@
 git pull
 # 安装依赖
 cnpm i
+# 编译
+npm run build
 # 启动服务
 npm run start
