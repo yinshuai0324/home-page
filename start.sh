@@ -3,3 +3,5 @@
 git pull
 # 安装依赖
 cnpm i
+# 启动服务
+npm run start
