@@ -1,4 +1,6 @@
 #!/bin/sh
+# 放弃所有更改 防止拉取不成功
+git checkout .
 # 拉取最新代码
 git pull
 # 安装依赖
