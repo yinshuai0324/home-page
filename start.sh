@@ -3,6 +3,8 @@
 git reset --hard
 # 拉取最新代码
 git pull
+# 给脚本执行权限 防止下次启动不了
+chmod +x ./start.sh
 # 安装依赖
 cnpm i
 # 编译
